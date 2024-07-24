@@ -1,0 +1,1 @@
+SELECT COUNT(age) FROM hello_mysql.users;
